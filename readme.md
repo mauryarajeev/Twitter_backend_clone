@@ -28,7 +28,7 @@
 - Clone the project on your local
 - execute `npm install` on the same pathof root directory of the downloaded project
 - create a `.env` file in your root directory and create the following environment variables
-    - `PORT=3000`
+    - `PORT=3001`
     - `DATABSE_URL=<YOUR_MONGODB_DATABASE_URL>`
     - `JWT_SECRET=<YOUR_SECRET>`
    
